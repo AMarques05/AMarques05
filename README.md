@@ -20,7 +20,7 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 
 ## 📫 Let's Connect!
 - 💼 Check out my [Portfolio](https://github.com/AMarques05/anthony-marques)
-- 📧 Feel free to reach out for collaboration opportunities
+- 📧 Feel free to reach out via email: 05marquesanthony@gmail.com
 
 ---
 ⭐ **"Turning ideas into code, one project at a time"** ⭐
