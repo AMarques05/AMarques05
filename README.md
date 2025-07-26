@@ -15,7 +15,6 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="ejs logo"  />
 
 ## 🌱 Currently Intrested in
 - Advanced JavaScript frameworks
