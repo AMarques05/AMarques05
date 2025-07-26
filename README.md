@@ -27,7 +27,6 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="ejs logo"  />
 </div>
 
 ## 🌱 Currently Intrested in
