@@ -37,7 +37,6 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 ## 🌱 Currently Intrested in
 - Advanced JavaScript frameworks
 - AI/ML learning
-- Database optimization
 
 ## 📫 Let's Connect!
 - 💼 Check out my [Portfolio](https://github.com/AMarques05/anthony-marques)
