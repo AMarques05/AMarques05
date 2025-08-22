@@ -36,11 +36,12 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 
 ## 🌱 Currently Intrested in
 - Advanced JavaScript frameworks
+- Java and Spring-Boot Libraries
 - AI/ML learning
 
 ## 📫 Let's Connect!
 - 💼 Check out my [Portfolio](https://github.com/AMarques05/anthony-marques)
-- 📧 Feel free to reach out via email: 05marquesanthony@gmail.com
+- 📧 Feel free to reach out via email: anthony.marques@stonybrook.edu
 
 ---
 ⭐ **"Turning ideas into code, one project at a time"** ⭐
