@@ -3,7 +3,7 @@
 ## 🎓 About Me
 Current Computer Science student at **Stony Brook University** and aspiring software engineer. I'm passionate about building web applications and learning new technologies.
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies & Skills I have used!!
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
