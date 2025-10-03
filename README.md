@@ -34,6 +34,7 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
 </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMarques05&layout=compact&langs_count=6&theme=tokyonight)
 
 
