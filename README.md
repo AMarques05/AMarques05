@@ -44,7 +44,6 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 - AI/ML
 
 ## 📫 Let's Connect!
-- 💼 Check out my [Portfolio](https://github.com/AMarques05/anthony-marques)
 - 📧 Feel free to reach out via email: anthony.marques@stonybrook.edu
 
 ---
