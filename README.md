@@ -1,9 +1,9 @@
 ## # Hi there! 👋 I'm Anthony Marques
 
-## 🎓 About Me
+## About Me
 Current Computer Science student at **Stony Brook University** and aspiring software engineer. I'm passionate about building web applications and learning new technologies.
 
-## 🛠️ Technologies & Skills I Have Used!!
+## Technologies & Skills I Have Used!!
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -38,13 +38,13 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMarques05&layout=compact&langs_count=6&theme=tokyonight)
 
 
-## 🌱 Currently Intrested in
+## Currently Intrested in
 - Advanced JavaScript frameworks
 - Java and Spring-Boot Libraries
 - AI/ML
 
-## 📫 Let's Connect!
-- 📧 Feel free to reach out via email: anthony.marques@stonybrook.edu
+## Let's Connect!
+- Feel free to reach out via email: anthony.marques@stonybrook.edu
 
 ---
 ⭐ **"Turning ideas into code, one project at a time"** ⭐
