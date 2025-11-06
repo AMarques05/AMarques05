@@ -39,8 +39,7 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 
 
 ## Currently Intrested in
-- Advanced JavaScript frameworks
-- Java and Spring-Boot Libraries
+- Advanced JS/TS frameworks
 - AI/ML
 
 ## Let's Connect!
