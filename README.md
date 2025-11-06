@@ -1,4 +1,4 @@
-## # Hi there! 👋 I'm Anthony Marques
+## # Hi there! I'm Anthony Marques
 
 ## About Me
 Current Computer Science student at **Stony Brook University** and aspiring software engineer. I'm passionate about building web applications and learning new technologies.
@@ -47,5 +47,5 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
 - Feel free to reach out via email: anthony.marques@stonybrook.edu
 
 ---
-⭐ **"Turning ideas into code, one project at a time"** ⭐
+**"Turning ideas into code, one project at a time"**
 
