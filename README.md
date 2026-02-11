@@ -35,7 +35,6 @@ Current Computer Science student at **Stony Brook University** and aspiring soft
   <img width="12" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMarques05&layout=compact&langs_count=6&theme=tokyonight)
 
 
 ## Currently Intrested in
