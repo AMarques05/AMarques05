@@ -23,6 +23,10 @@ I enjoy building applications, working with data, and exploring how modern AI te
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+## Devpost:
+
+[![Devpost](https://img.shields.io/badge/Devpost-AMarques05-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/AMarques05?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/Email-anthony.marques%40stonybrook.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.marques@stonybrook.edu)
